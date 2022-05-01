@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+
+.l1{
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    color: white;
+    }    
+.l1s1{
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 1.5em;
+    white-space: nowrap;
+}    
+.l2{
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    justify-self: center;
+    margin-top: 5px;
+  
+}
+.l2s1{
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.img0{
+    height: ;
+    width: 100%;
+}
+.img1{
+    margin: 2px;
+    height: 300px;
+}
